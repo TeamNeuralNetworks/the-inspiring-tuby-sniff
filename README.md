@@ -18,7 +18,7 @@ Now you can orient the tuby-sniff head as you want and fix it by inserting the s
 
 Created and designed by Anthime Perrot.
 
-  ) _     _
+     ) _     _
     ( (^)-~-(^)
 __,-.\_( 6 6 )__,-.___
   'M'   \   /   'M'
