@@ -33,3 +33,9 @@ Ready-to-print file with standard head
 
 Fusion 360 file 
 ![image](https://github.com/user-attachments/assets/16173f50-be67-463a-ac6b-c11ce8f9b82a)
+
+
+If you use my device, please cite this repository.
+Anthime Perrot
+PhD Student
+Institute of Cellular and Integrative Neuroscience
