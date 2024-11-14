@@ -30,3 +30,6 @@ Tuby-sniff with cone head
 
 Ready-to-print file with standard head
 ![image](https://github.com/user-attachments/assets/6ecf68a2-1237-48eb-a6fa-f33548535eff)
+
+Fusion 360 file 
+![image](https://github.com/user-attachments/assets/16173f50-be67-463a-ac6b-c11ce8f9b82a)
