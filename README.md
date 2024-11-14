@@ -25,3 +25,8 @@ Now you can orient the tuby-sniff head as you want and fix it by inserting the s
 
 Created and designed by Anthime Perrot.
 
+Tuby-sniff with cone head
+![image](https://github.com/user-attachments/assets/d53cd444-89cb-4b27-9729-8e5d8a48347c)
+
+Ready-to-print file with standard head
+![image](https://github.com/user-attachments/assets/6ecf68a2-1237-48eb-a6fa-f33548535eff)
