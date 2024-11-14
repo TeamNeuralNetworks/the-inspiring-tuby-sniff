@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/608081719.svg)](https://doi.org/10.5281/zenodo.14162569)
+
 # tuby-sniff
 An anesthesia mask adapted to mice for stereotaxic devices.
 
