@@ -38,7 +38,7 @@ Fusion 360 file
 
 Tuby-sniff © 2023 by Anthime Perrot is licensed under CC BY 4.0 .
 
-If my device helped you in your project, please cite this repository. DOI: 10.5281/zenodo.14162570
+If my device helped you in your project, please cite this repository. [![DOI](https://zenodo.org/badge/608081719.svg)](https://doi.org/10.5281/zenodo.14162569)
 
 Anthime Perrot,PhD Student,
 
