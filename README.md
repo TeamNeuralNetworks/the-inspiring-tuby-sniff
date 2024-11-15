@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/608081719.svg)](https://doi.org/10.5281/zenodo.14162569)
+
 # tuby-sniff
 An anesthesia mask adapted to mice for stereotaxic devices.
 
@@ -25,3 +27,21 @@ Now you can orient the tuby-sniff head as you want and fix it by inserting the s
 
 Created and designed by Anthime Perrot.
 
+Tuby-sniff with cone head
+![image](https://github.com/user-attachments/assets/d53cd444-89cb-4b27-9729-8e5d8a48347c)
+
+Ready-to-print file with standard head
+![image](https://github.com/user-attachments/assets/6ecf68a2-1237-48eb-a6fa-f33548535eff)
+
+Fusion 360 file 
+![image](https://github.com/user-attachments/assets/16173f50-be67-463a-ac6b-c11ce8f9b82a)
+
+Tuby-sniff © 2023 by Anthime Perrot is licensed under CC BY 4.0 .
+
+If my device helped you in your project, please cite this repository. [![DOI](https://zenodo.org/badge/608081719.svg)](https://doi.org/10.5281/zenodo.14162569)
+
+Anthime Perrot,PhD Student,
+
+Institute of Cellular and Integrative Neuroscience, INCI UPR 3212
+
+This work was funded by the European Research Council, Grant agreement ID: 101042329.
